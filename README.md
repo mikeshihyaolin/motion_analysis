@@ -8,3 +8,7 @@ pip install -r requirement.txt
 ```
 python demo_hand.py
 ``` 
+# To Do
+- [x] 2D hand motion visualization
+- [ ] 3D hand motion visualization
+- [ ] Face motion
